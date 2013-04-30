@@ -40,7 +40,7 @@
 
     <g:render template="navigationBar"/>
     <div class="container" id="mainContainer">
-      <g:render template="gallery"/>
+      <g:render template="contact"/>
     </div>
 
 </body>

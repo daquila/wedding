@@ -1,16 +1,50 @@
 <div id="contacto">
 	<h3>Comentarios</h3>
-	<form>
-		<div class="row show-grid">
-			<div class="span3" data-original-title="" title="">
-				<input type="text" id="name" placeholder="Nombre" class="span3">
-	    		<input type="text" id="email" placeholder="Email" class="span3">
-	    		<button type="submit" class="btn btn-success">Enviar</button>
-			</div>
-			<div class="span9">
-				<textarea rows="5" class="span9" placeholder="Comentario"></textarea>
+	
+	<form class="form-horizontal">
+		<div class="control-group">
+			<label class="control-label" for="inputName">Invitado</label>
+			<div class="controls">
+			  <input type="text" id="inputName" placeholder="Nombre y apellido" class="span4">
 			</div>
 		</div>
+		<div class="control-group">
+	    	<div class="controls">
+				<label class="checkbox">
+					<input type="radio" name="present" value="true" checked> Asistiré
+	      		</label>
+	      		<label class="checkbox">
+					<input type="radio" name="present" value="false"> No asistiré
+	      		</label>
+			</div>
+	  	</div>
+	</form>
+<!--
+	<form class="form-horizontal">
+
+		<div class="control-group">
+    		<label class="control-label" for="inputName">Invitado</label>
+    		<div class="controls">
+      			<input type="text" id="inputName" placeholder="Nombre" class="span3">
+    		</div>
+  		</div>
+
+  		<div class="control-group">
+    		<label class="control-label" for="inputPresentYes">Asistiré</lablel>
+    		<div class="controls">
+				<input type="radio" name="present" value="true" checked class="span3" id="inputPresentYes">
+			</div>
+			<label class="control-label" for="inputPresentNo">No asistiré</lablel>
+    		<div class="controls">
+				<input type="radio" name="present" value="true" checked class="span3" id="inputPresentNo">
+			</div>
+  		</div>
+
+
+
+		
 	    
 	  </fieldset>
+
+	-->
 </div>

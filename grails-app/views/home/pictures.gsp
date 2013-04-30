@@ -43,5 +43,12 @@
       <g:render template="gallery"/>
     </div>
 
+    <script>
+      $('.thumbnail').click(function(e) {
+        $("#mdlPic").attr('src', $(this.getElementsByTagName('img')[0]).attr('src'));
+        $('#pictureModal').modal({show:true,keyboard:true});
+      });
+    </script>
+
 </body>
 </html>
