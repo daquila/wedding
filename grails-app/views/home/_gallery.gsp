@@ -2,18 +2,16 @@
   
   <h3>Nosotros</h3>
   
-  <div class="span12">
-    <ul class="thumbnails">
-      <g:each in="${1..18}">
-      <li class="span2">
-        <a href="#" class="thumbnail" data-toggle="modal">
-          <img data-src="holder.js/160x120" alt="160x120" style="width: 160px; height: 120px;" src="images/album/img_0${it}.jpg
-          ">
-        </a>
-      </li>
-      </g:each>    
-    </ul>
-  </div>
+  <ul class="thumbnails">
+    <g:each in="${1..18}">
+    <li class="span2">
+      <a href="#" class="thumbnail" data-toggle="modal">
+        <img data-src="holder.js/160x120" alt="160x120" style="width: 160px; height: 120px;" src="images/album/img_0${it}.jpg
+        ">
+      </a>
+    </li>
+    </g:each>    
+  </ul>
     
   <!-- Modal -->
   <div class="modal hide fade" id="pictureModal">

@@ -36,19 +36,12 @@
 
   </head>
 
-  <body class="index" id="top" style="margin-top: 0px; background: #f6f6f6 url('images/css/bg.gif') repeat; color: #333;" data-twttr-rendered="true">
+  <body style="margin-top: 0px; background: #f6f6f6 url('images/css/bg.gif') repeat; color: #333;">
 
     <g:render template="navigationBar"/>
     <div class="container" id="mainContainer">
       <g:render template="party"/> 
     </div>
-
-    <script>
-      $('.thumbnail').click(function(e) {
-        $("#mdlPic").attr('src', $(this.getElementsByTagName('img')[0]).attr('src'));
-        $('#pictureModal').modal({show:true,keyboard:true});
-      });
-    </script>
 
 </body>
 </html>
