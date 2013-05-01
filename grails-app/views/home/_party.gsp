@@ -1,4 +1,4 @@
-<div class="row-fluid show-grid" style="margin-top:20px;">
+<div class="row-fluid show-grid">
   
   <div class="span4" data-original-title="" title="" id="fiesta">
     

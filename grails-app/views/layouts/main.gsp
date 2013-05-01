@@ -18,9 +18,7 @@
 		<r:layoutResources />
 	</head>
 	<body>
-		<div class="container">
 		<g:layoutBody/>
-		</div>
 		<g:javascript library="application"/>
 		<r:layoutResources />
 	</body>

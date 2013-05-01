@@ -1,4 +1,4 @@
-<div class="row-fluid show-grid" style="margin-top:20px;">
+<div class="row-fluid show-grid">
   <div class="span4" data-original-title="" title="" id="fiesta">
     <h3>Ceremonia religiosa</h3>
     <p><i class="icon-home"></i>&nbsp;&nbsp;<a href="http://www.facebook.com/lamerced.sanisidro" target="_blank">Parroquia Nuestra Señora de la Merced</a></p>
@@ -8,8 +8,8 @@
 
     <ul class="thumbnails">
       <li style="margin-left:7px;">
-        <a href="#" class="thumbnail" class="span12">
-          <img src="images/lamerced/home.jpg">
+        <a href="#" class="thumbnail">
+          <img src="images/lamerced/home.jpg" class="span12">
         </a>
       </li>
     </ul>
