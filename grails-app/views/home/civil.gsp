@@ -39,7 +39,7 @@
   <body style="margin-top: 0px; background: #f6f6f6 url('images/css/bg.gif') repeat; color: #333;">
 
     <g:render template="navigationBar"/>
-    <div class="container" id="mainContainer">
+    <div class="container">
       <g:render template="civil"/> 
     </div>
 

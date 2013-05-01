@@ -25,6 +25,7 @@
     <g:javascript src="jquery-1.9.1.min.js" />
     <g:javascript src="application.js" />
     <g:javascript src="bootstrap.js" />
+    <g:javascript src="jquery.lwtCountdown-0.9.5.js" />
 
     <script type="text/javascript">
       var _gaq=[['_setAccount','UA-40384195-1'],['_trackPageview'],['_trackPageLoadTime']];
@@ -40,8 +41,22 @@
 
     <g:render template="navigationBar"/>
 
-    <div class="container" id="mainContainer">
-      <g:render template="gallery"/>
+    <div class="container">
+
+      <div class="row-fluid show-grid">
+        <div class="span2"></div>
+        <div class="span8">
+          <img src="images/home.jpg" class="img-circle">
+        </div>
+        <div class="span2"></div>
+      </div>
+
+      <br>
+
+      <div class="row-fluid show-grid">
+        <g:render template="countDown"/>
+      </div>
+
     </div>
 
     <script>
