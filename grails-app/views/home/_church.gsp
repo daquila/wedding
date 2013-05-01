@@ -6,13 +6,15 @@
     <p><i class="icon-road"></i>&nbsp;&nbsp;Julian Navarro 3546, San Isidro</p> 
     <br><br>
 
-    <ul class="thumbnails">
-      <li style="margin-left:7px;">
-        <a href="#" class="thumbnail" data-toggle="modal">
-          <img src="images/lamerced/home.jpg">
-        </a>
-      </li>
-    </ul>
+    <div class="span12">
+      <ul class="thumbnails">
+        <li style="margin-left:7px;">
+          <a href="#" class="thumbnail" data-toggle="modal">
+            <img src="images/lamerced/home.jpg">
+          </a>
+        </li>
+      </ul>
+    </div>
 
   </div>
   <div class="span8">

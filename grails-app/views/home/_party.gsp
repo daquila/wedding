@@ -9,31 +9,35 @@
     <p><i class="icon-headphones"></i>&nbsp;&nbsp;Grupo Sarapura</p>
     <br>
 
-    <ul class="thumbnails">
-      <li style="margin-left:7px;">
-        <a href="#" class="thumbnail" data-toggle="modal">
-          <img data-src="holder.js/160x120" style="width: 150px; height: 120px;" src="images/adelina/home.jpg">
-        </a>
-      </li>
-      <li>
-        <a href="#" class="thumbnail" data-toggle="modal">
-          <img data-src="holder.js/160x120" style="width: 150px; height: 120px;" src="images/adelina/home2.jpg">
-        </a>
-      </li>
-    </ul>
+    <div class="span12"> 
+      <ul class="thumbnails">
+        <li style="margin-left:7px;">
+          <a href="#" class="thumbnail" data-toggle="modal">
+            <img data-src="holder.js/160x120" style="width: 150px; height: 120px;" src="images/adelina/home.jpg">
+          </a>
+        </li>
+        <li>
+          <a href="#" class="thumbnail" data-toggle="modal">
+            <img data-src="holder.js/160x120" style="width: 150px; height: 120px;" src="images/adelina/home2.jpg">
+          </a>
+        </li>
+      </ul>
+    </div>
 
-    <ul class="thumbnails">
-      <li style="margin-left:7px;">
-        <a href="#" class="thumbnail" data-toggle="modal">
-          <img data-src="holder.js/160x120" style="width: 150px; height: 120px;" src="images/adelina/home3.jpg">
-        </a>
-      </li>
-      <li>
-        <a href="#" class="thumbnail" data-toggle="modal">
-          <img data-src="holder.js/160x120" style="width: 150px; height: 120px;" src="images/adelina/home4.jpg">
-        </a>
-      </li>
-    </ul>
+    <div class="span12"> 
+      <ul class="thumbnails">
+        <li style="margin-left:7px;">
+          <a href="#" class="thumbnail" data-toggle="modal">
+            <img data-src="holder.js/160x120" style="width: 150px; height: 120px;" src="images/adelina/home3.jpg">
+          </a>
+        </li>
+        <li>
+          <a href="#" class="thumbnail" data-toggle="modal">
+            <img data-src="holder.js/160x120" style="width: 150px; height: 120px;" src="images/adelina/home4.jpg">
+          </a>
+        </li>
+      </ul>
+    </div>
 
   </div>
   <div class="span8">

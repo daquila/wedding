@@ -2,6 +2,7 @@
   
   <h3>Nosotros</h3>
   
+  <div class="span12">
     <ul class="thumbnails">
       <g:each in="${1..18}">
       <li class="span2">
@@ -12,8 +13,8 @@
       </li>
       </g:each>    
     </ul>
+  </div>
     
-  
   <!-- Modal -->
   <div class="modal hide fade" id="pictureModal">
     <div class="modal-header">
