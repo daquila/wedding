@@ -44,9 +44,9 @@
     <div class="container">
 
       <div class="row-fluid show-grid">
-        <div class="span2"></div>
-        <div class="span8">
-          <img src="images/home.jpg" class="img-circle">
+        <div class="span3"></div>
+        <div class="span7">
+          <img src="images/home.jpg" class="img-circle" style="width:80%;height:80%;">
         </div>
         <div class="span2"></div>
       </div>

@@ -15,10 +15,11 @@
       <!-- Everything you want hidden at 940px or less, place within here -->
       <div class="nav-collapse collapse">
         <ul class="nav" id="main-menu-left" style="font-size:16px;">
-          <li><a href="fotos">Fotos</a></li>
           <li><a href="civil">Civil</a></li>
           <li><a href="iglesia">Iglesia</a></li>
           <li><a href="fiesta">Fiesta</a></li>
+          <li><a href="regalos">Regalos</a></li>
+          <li><a href="fotos">Fotos</a></li>
         </ul>
       </div>
  
