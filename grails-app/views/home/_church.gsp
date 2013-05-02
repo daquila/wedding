@@ -34,7 +34,9 @@
 
 
 <script type="text/javascript">
-  var church = new google.maps.LatLng(-34.476424,-58.56247);
+  var church = new google.maps.LatLng(-34.476671,-58.561697);
   mapOptions.center = church
   var map = new google.maps.Map(document.getElementById("churchMap"), mapOptions);
+  var marker = new google.maps.Marker({position: church});
+  marker.setMap(map);
 </script>

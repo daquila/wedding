@@ -27,4 +27,6 @@
   var civil = new google.maps.LatLng(-34.512384,-58.567385);
   mapOptions.center = civil
   var map = new google.maps.Map(document.getElementById("civilMap"), mapOptions);
+  var marker = new google.maps.Marker({position: civil});
+  marker.setMap(map);
 </script>

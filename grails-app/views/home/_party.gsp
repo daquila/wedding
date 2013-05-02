@@ -63,6 +63,8 @@
   var party = new google.maps.LatLng(-34.504968,-58.538824);
   mapOptions.center = party
   var map = new google.maps.Map(document.getElementById("partyMap"), mapOptions);
+  var marker = new google.maps.Marker({position: party});
+  marker.setMap(map);
 
   $('.thumbnail').click(function(e) {
     $("#mdlPic").attr('src', $(this.getElementsByTagName('img')[0]).attr('src'));
