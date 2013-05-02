@@ -39,6 +39,17 @@
 
   <body style="margin-top: 0px; background: #f6f6f6 url('images/css/bg.gif') repeat; color: #333;">
 
+    <div id="fb-root"></div>
+    <script>
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1&appId=176432979181432";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+
     <g:render template="navigationBar"/>
 
     <div class="container">
@@ -51,11 +62,12 @@
         <div class="span2"></div>
       </div>
 
-      <br>
-
       <div class="row-fluid show-grid">
         <g:render template="countDown"/>
       </div>
+
+      <br>
+      <div class="fb-like" data-href="http://piayjose.com.ar" data-send="false" data-width="450" data-show-faces="true"></div>
 
     </div>
 
