@@ -54,20 +54,19 @@
 
     <div class="container">
 
-      <div class="row-fluid show-grid">
+      <div class="row-fluid show-grid" style="margin-top:20px;">
         <div class="span3"></div>
-        <div class="span7">
-          <img src="images/home.jpg" class="img-circle" style="width:80%;height:80%;">
+        <div class="span6">
+          <img src="images/home.jpg" class="img-circle" style="width:95%;height:95%;">
         </div>
-        <div class="span2"></div>
+        <div class="span3">
+          <div class="fb-like" data-href="http://piayjose.com.ar" data-send="false" data-width="450" data-show-faces="true"></div>
+        </div>
       </div>
 
-      <div class="row-fluid show-grid">
+      <div class="row-fluid show-grid" style="margin-top:30px;">
         <g:render template="countDown"/>
       </div>
-
-      <br>
-      <div class="fb-like" data-href="http://piayjose.com.ar" data-send="false" data-width="450" data-show-faces="true"></div>
 
     </div>
 
