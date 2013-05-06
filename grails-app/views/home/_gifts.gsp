@@ -4,7 +4,7 @@
     	<h4><strong>Si queres ayudarnos con nuestra luna de miel podes hacernos una transferencia.</strong></h4>
 	</div>
 	-->
-	<h3 style="font-size:30px;">Si queres ayudarnos con nuestra luna de miel podes hacernos una transferencia</h3>
+	<h3 style="font-size:26px;">Si queres ayudarnos con nuestra luna de miel podes hacernos una transferencia</h3>
 	<br>
 	
 	<div class="row-fluid show-grid" style="margin-top:20px;">
@@ -25,6 +25,10 @@
 			<br><br>
 			<p><b>Banco:</b> Santander Río</p>
 			<p><b>CBU:</b> 0720414688000032607868</p>
+			<div class="alert alert-info">
+              Mandanos un mail a piaboselli@hotmail.com y jose.daquila@gmail.com
+            </div>
+
 		</div>
 	</div>
 
