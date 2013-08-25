@@ -2,7 +2,7 @@
   <div class="span4" data-original-title="" title="" id="fiesta">
     <h3>Civil</h3>
     <p><i class="icon-home"></i>&nbsp;&nbsp;Registro Civil de Boulogne</p>
-    <p><i class="icon-calendar"></i>&nbsp;&nbsp;28 de agosto, 10:00 hrs.</p>
+    <p><i class="icon-calendar"></i>&nbsp;&nbsp;29 de agosto, 12:30 hrs.</p>
     <p><i class="icon-road"></i>&nbsp;&nbsp;Av. Avelino Rolón 2336, Boulogne</p> 
     <br><br>
   </div>
