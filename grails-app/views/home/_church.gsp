@@ -2,7 +2,7 @@
   <div class="span4" data-original-title="" title="" id="fiesta">
     <h3>Ceremonia religiosa</h3>
     <p><i class="icon-home"></i>&nbsp;&nbsp;<a href="http://www.facebook.com/lamerced.sanisidro" target="_blank">Parroquia Nuestra Señora de la Merced</a></p>
-    <p><i class="icon-calendar"></i>&nbsp;&nbsp;31 de agosto, 19:00 hrs.</p>
+    <p><i class="icon-calendar"></i>&nbsp;&nbsp;31 de agosto, 20:15 hrs.</p>
     <p><i class="icon-road"></i>&nbsp;&nbsp;Julian Navarro 3546, San Isidro</p> 
     <br><br>
 
